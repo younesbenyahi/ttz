@@ -1,0 +1,56 @@
+body{ 
+    margin: 0;
+    background-color: #f1fcfc;
+ }
+.navUs{
+    background-image: linear-gradient(to right,#192965 , #f6a36f) ;
+    box-shadow: 0 4px 8px 0 rgba(6, 118, 43, 0.2);
+}
+.firstbox{
+    margin: 100px auto;
+    width: 80%;
+}
+.maintext{
+    text-align: center;
+    font-size: 3.2rem;
+    font-family: monoton;
+    color: #192965;
+    text-shadow: 2px 2px 4px #192965;
+}
+.mainimg{
+    margin: 30 0px;
+
+}
+li{font-size: 20px;
+     
+}
+.secondbox{
+    margin: 50px 0px;
+    background-image:  linear-gradient(to right, #192965 , #f6a36f);
+    padding: 10%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.itemtext{
+    padding-top: 160px;
+    height:400px;
+    background-color: white;
+    color:#192965;
+    text-align: center;
+    font-weight: bold;
+    font-family: indie flower;
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px #192965;
+    box-shadow: 0 4px 8px 0 rgba;
+}
+.thirdbox{
+    background-color: #f1fcfc;
+    padding: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.fa-brands{
+    font-size: 50px;
+}
+.icon{
+    color: black;
+}
